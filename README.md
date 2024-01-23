@@ -18,8 +18,9 @@ I'm here to conquer the mobile development realm and leave a lasting impact. Joi
 * Challenges that push my limits, both on the screen and on the mat.
 
 // Find me at:
-* Twitter: @KrishnaDev108 (tweets may contain Gita quotes and epic code snippets)
-* Email: kris.dev108@email.com (open to dharma discussions and mobile dev collaborations)
+* instagram: tsotsonavaoto (tweets may contain Gita quotes and epic code snippets)
+* Email:ottotsotsonava@gmail.com (open to dharma discussions and mobile dev collaborations)
+* facbook:https://www.facebook.com/profile.php?id=100004281525909 (oto tsotsonava)
 
 // Pronouns: He/him, but open to learning yours.
 
