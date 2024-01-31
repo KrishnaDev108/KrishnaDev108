@@ -12,7 +12,7 @@ I'm here to conquer the mobile development realm and leave a lasting impact. Joi
 * Decoding the algorithms of life, one data point at a time.
 * Refining my inner Arjuna, seeking balance between action and peace.
 
-// I'm looking for:
+// I m looking for:
 * Epic mobile projects that make a difference, like a Krishna-powered social network.
 * Teams that value both innovation and mindfulness, where code is karma and bugs are conquered.
 * Challenges that push my limits, both on the screen and on the mat.
