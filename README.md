@@ -26,7 +26,4 @@ I'm here to conquer the mobile development realm and leave a lasting impact. Joi
 
 // Fun fact: My taekwondo black belt doubles as a debugging tool. Bugs beware!
 
-<!---
-KrishnaDev108/KrishnaDev108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
