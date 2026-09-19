@@ -1,22 +1,23 @@
-# 👋 Hi, I'm Otto (KrshnaDev108)
+# Hi, I'm Otto 👋
 
-Android / Mobile Developer passionate about building clean, efficient, and user-friendly applications. 
-
-🥋 Black belt in Taekwondo | 💻 Code Warrior | 📖 Guided by the Bhagavad Gita
+Mobile Developer specializing in native Android and iOS development.
 
 ---
 
-### 🚀 What I'm Up To
-* **Building:** Native Android apps using Kotlin, Jetpack Compose, and modern architecture (MVVM).
-* **Learning:** Advanced mobile performance, algorithms, and clean architecture.
-* **Seeking:** Impactful mobile projects and collaborations with innovative teams.
+### 💻 Tech & Tools
+* **Android:** Kotlin, Jetpack Compose, MVVM, Coroutines
+* **iOS:** Swift, SwiftUI
+* **General:** Git, Clean Architecture, REST APIs
 
 ---
 
-### 📬 Connect with Me
-* **Email:** [ottotsotsonava@gmail.com](mailto:ottotsotsonava@gmail.com)
+### 🥋 Beyond Code
+* Black belt in Taekwondo
+* Student of the Bhagavad Gita
+
+---
+
+### 📬 Contact
+* **Email:** ottotsotsonava@gmail.com
 * **Instagram:** [@tsotsonavaoto](https://instagram.com/tsotsonavaoto)
 * **Facebook:** [Oto Tsotsonava](https://www.facebook.com/profile.php?id=100004281525909)
-
----
-*“Perform your duty equipoised, abandoning all attachment to success or failure.” — Bhagavad Gita*
