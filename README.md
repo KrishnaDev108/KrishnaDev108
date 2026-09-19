@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Otto (KrishnaDev108)
+# 👋 Hi, I'm Otto (KrshnaDev108)
 
 Android / Mobile Developer passionate about building clean, efficient, and user-friendly applications. 
 
